@@ -1,4 +1,4 @@
-package com.test;
+package com.test.zookeeper;
 
 /**
  * Hello world!

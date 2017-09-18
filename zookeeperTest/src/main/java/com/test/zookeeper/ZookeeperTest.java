@@ -7,7 +7,7 @@
  *
 */
 
-package com.test;
+package com.test.zookeeper;
 
 import org.apache.zookeeper.CreateMode;
 import org.apache.zookeeper.ZooDefs.Ids;

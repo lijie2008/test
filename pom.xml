@@ -7,5 +7,6 @@
   <packaging>pom</packaging>
   <modules>
     <module>zookeeperTest</module>
+    <module>jdkTest</module>
   </modules>
 </project>
