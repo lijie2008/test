@@ -8,5 +8,6 @@
   <modules>
     <module>zookeeperTest</module>
     <module>jdkTest</module>
+    <module>zookeeper</module>
   </modules>
 </project>
