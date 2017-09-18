@@ -31,7 +31,7 @@ public class ZookeeperTest {
         
         ZooKeeper zookeeper = new ZooKeeper(HOST, TIME_OUT, null);
         
-        System.out.println("=========创建节点===========");
+        System.out.println("=========创建节点==========="); 
         
         if(zookeeper.exists("/test", false) == null){
             
